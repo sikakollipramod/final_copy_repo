@@ -1,3 +1,4 @@
 creating conflict
 
 second added to confilct
+new line added to create the confilct
