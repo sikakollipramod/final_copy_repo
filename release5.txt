@@ -1,1 +1,2 @@
 now exactly tring conflict
+added new line in develop branch to create conflict on GUI
