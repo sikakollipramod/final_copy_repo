@@ -1,1 +1,2 @@
 now exactly tring conflict
+add new line to test the GUI conflict
