@@ -2,3 +2,6 @@ creating conflict
 
 second added to confilct
 new line added to create the confilct
+
+
+added new line in relesase branch in GUI:
