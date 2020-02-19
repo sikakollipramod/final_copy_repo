@@ -1,0 +1,6 @@
+now exactly tring conflict
+
+add new line to test the GUI conflict
+
+added new line in develop branch to create conflict on GUI
+
